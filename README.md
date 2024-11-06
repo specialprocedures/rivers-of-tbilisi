@@ -4,10 +4,13 @@ This project is a quick piece of analysis for my friend Tim, who runs the [@rive
 
 Tim has been documenting the paths of Tbilisi's smaller rivers and streams, following submerged waterways and highlighting challenges with urban sprawl and pollution. I told him I'd "do something" with some Geodata, and here's what I've gotten done today.
 
+![Waterways within 100 meters of landfill](img/landfill.png)
+
 ## Project Structure
 
 - `landfill.ipynb`: Jupyter notebook containing the analysis code.
-- `data/`: Directory containing the necessary data files, including topography data.
+- `data/`: Directory containing topography data.
+- `img/`: Directory containing output images.
 
 ## Analysis Steps
 
