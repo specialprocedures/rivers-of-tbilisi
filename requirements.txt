@@ -1,0 +1,6 @@
+geopandas==0.14.4
+matplotlib==3.9.2
+osmnx==1.9.4
+pandas==2.2.3
+rioxarray==0.17.0
+Shapely==2.0.6
