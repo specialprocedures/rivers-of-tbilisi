@@ -33,7 +33,7 @@ Tim has been documenting the paths of Tbilisi's smaller rivers and streams, foll
 
 ## Visualization
 
-The final visualization shows the waterways within 100 meters of landfills, overlaid on a contour map of Tbilisi's topography. The polluted waterways are highlighted in yellow.
+The final visualization shows waterways downstream of landfills, overlaid on a contour map of Tbilisi's topography. Potentially waterways are highlighted in yellow.
 
 ## Requirements
 
